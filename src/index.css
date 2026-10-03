@@ -1,0 +1,21 @@
+/* 強制全站使用淺色 */
+:root {
+  color-scheme: light;     /* 不跟系統深色模式 */
+}
+
+/* 全域基礎樣式 */
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #ffffff;     /* 整頁白底 */
+  color: #000000;          /* 文字黑色 */
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* 可選：讓主要容器有點內距 */
+main {
+  padding: 24px;
+}

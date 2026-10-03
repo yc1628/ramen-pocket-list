@@ -1,0 +1,18 @@
+[
+  { "id": "r1", "name": "隱家拉麵（赤峰店）", "area": "台北中山", "rating": 4.3, "mapUrl":"https://maps.app.goo.gl/j6VQC7T7XWYzCpoQ8","lat":25.056523584563635,"lng":121.52043909368555},
+  { "id": "r2", "name": "Totto Ramen 鳥人拉麵（中山店）", "area": "台北中山", "rating": 4.2, "mapUrl":"https://maps.app.goo.gl/xHWoysBFtbuJvHRL9","lat":25.051006337840754,"lng":121.52321443637537},
+  { "id": "r3", "name": "麵屋壹慶", "area": "台北中山", "rating": 4.4, "mapUrl":"https://maps.app.goo.gl/tHfBR8JZ1SQNBmPy5","lat":25.0663317345976,"lng":121.52455636547944},
+  { "id": "r4", "name": "塩琉", "area": "台北中正", "rating": 4.5, "mapUrl":"https://maps.app.goo.gl/vpN2ySafHbsYHwRi8","lat":25.042078144115816,"lng":121.51331483660705},
+  { "id": "r5", "name": "鬼金棒（台北總店）", "area": "台北中山", "rating": 4.1, "mapUrl":"https://maps.app.goo.gl/NwEVXdMYrfDurpEP6","lat":25.04954435421373,"lng":121.52167535455517},
+  { "id": "r6", "name": "麒麟創作拉麵坊", "area": "台北中山", "rating": 4.7, "mapUrl":"https://maps.app.goo.gl/eE4Fmnrz2Hdcq1bZ8","lat":25.051672111311532,"lng":121.52154896555615},
+  { "id": "r7", "name": "麵屋千雲 Chikumo", "area": "台北中山", "rating": 4.5, "mapUrl":"https://maps.app.goo.gl/4K4e5BPwUzsyUHkM8","lat":25.050338653196892,"lng":121.52584815987139},
+  { "id": "r8", "name": "Okaeri 你回來啦拉麵", "area": "台北大安", "rating": 4.4, "mapUrl":"https://maps.app.goo.gl/Xxppjg9droqnFc1w8","lat":25.04389472245002,"lng":121.55418635408289},
+  { "id": "r9", "name": "美濃屋", "area": "台北中山", "rating": 4.1, "mapUrl":"https://maps.app.goo.gl/KubwedLHCQA2iu8n9","lat":25.04992243900374121,"lng":121.52855682959157},
+  { "id": "r10", "name": "豚人拉麵（本店）", "area": "台北大安", "rating": 4.3, "mapUrl":"https://maps.app.goo.gl/sfe1ofs6H86vwKcz7","lat":25.040813824059835,"lng":121.55189935976297},
+  { "id": "r11", "name": "道樂屋台", "area": "台北士林", "rating": 4.5, "mapUrl":"https://maps.app.goo.gl/oq57Ywf5jzyFHKng7","lat":25.088246107205826,"lng":121.52402469823105},
+  { "id": "r12", "name": "辰拉麵", "area": "新北永和", "rating": 4.8, "mapUrl":"https://maps.app.goo.gl/dJHjFHuzFUuWHVD98","lat":25.015508319719228,"lng":121.51363056160574},
+  { "id": "r13", "name": "百寿爺日式拉麵專賣店", "area": "新北新店", "rating": 4.4, "mapUrl":"https://maps.app.goo.gl/uNtsH6Q25QEgsXEj7","lat":24.97418209575806,"lng":121.53483971354228},
+  { "id": "r14", "name": "海貓亭", "area": "新北新店", "rating": 4.5, "mapUrl":"https://maps.app.goo.gl/nxzn1fDGQsdKfm9S7","lat":24.95280827026484121,"lng":121.54085727743544},
+  { "id": "r15", "name": "柳町家拉麵", "area": "新北蘆洲", "rating": 4.8, "mapUrl":"https://maps.app.goo.gl/ZSowLgsGpqDsnQ4p8","lat":25.09100891490589,"lng":121.47159633467749},
+  { "id": "r16", "name": "熊越岳", "area": "新北新莊", "rating": 4.6, "mapUrl":"https://maps.app.goo.gl/fs9UuwMgPHe7Scxi8","lat":25.04935669606908,"lng":121.44820556733977}
+]
